@@ -70,7 +70,7 @@ rakshapath-road-safety/
 ├── scripts/simulate.py    # Synthetic drive: pothole + crash
 ├── tests/                 # unittest suite (16 tests)
 ├── requirements.txt
-└── LICENSE
+
 ```
 
 ## Quick start
