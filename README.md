@@ -19,7 +19,7 @@ Built by **Team SPRINT** for **HackOverflow 10.0** | Theme: **Road Safety**
 - [Testing](#testing)
 - [Roadmap](#roadmap)
 - [Limitations](#limitations)
-- [Team and license](#team-and-license)
+
 
 ## The problem
 Road crashes are a leading cause of death worldwide, and in India alone they cost well over a lakh of lives each year (see WHO's *Global Status Report on Road Safety 2023* and MoRTH's *Road Accidents in India*). Three gaps keep recurring:
