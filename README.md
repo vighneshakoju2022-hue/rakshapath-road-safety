@@ -179,10 +179,7 @@ The tests cover the core library: detection, clustering/validation/ranking and t
 - The SOS notifier prints to the console. **No real alerts are sent.**
 - Behaviour on real roads and real phones has not been tested.
 
-## Team and license
-**Team SPRINT** - HackOverflow 10.0, Road Safety track.
 
-Released under the [MIT License](LICENSE).
 
 ---
 
